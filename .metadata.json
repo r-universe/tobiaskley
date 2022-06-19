@@ -1,0 +1,10 @@
+[
+  {
+    "package": "forecastSNSTS",
+    "oncran": true
+  },
+  {
+    "package": "quantspec",
+    "oncran": true
+  }
+]
