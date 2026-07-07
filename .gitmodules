@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "forecastSNSTS"]
-	path = forecastSNSTS
-	url = https://github.com/tobiaskley/forecastsnsts
 [submodule "quantspec"]
 	path = quantspec
 	url = https://github.com/tobiaskley/quantspec
